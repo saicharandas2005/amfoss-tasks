@@ -3,8 +3,7 @@
 ##Step1
 mkdir solution - Made a new folder as solution
 ##Step2
-echo 107 >>part1.txt - Found the password of the first part as 107 and saved it to part1.txt in solution directory![saisolutionpdf - Copy](https://user-images.githubusercontent.com/116486234/201376925-5e71b8f8-6fb2-4f0e-a575-4c17667b06cf.png)
-
+echo 107 >>part1.txt - Found the password of the first part as 107 and saved it to part1.txt in solution directory
 ##Step3
 cd 6 - Found out the hcf and saved it to its respective folder
 cp 1.txt ../solution/ - Copied the file with the fourth digit of pi into the solution directory
@@ -25,3 +24,4 @@ mv athens.txt part4.txt - Copied the file and renamed as part4.txt
 ##Step8
 cat part1.txt part2.txt part3.txt part4.txt >> password.txt - Combined and stored it in password.txt
 cat password.txt -  Reads data from the file and outputs the contents
+[saisolutionpdf - Copy](https://user-images.githubusercontent.com/116486234/201376925-5e71b8f8-6fb2-4f0e-a575-4c17667b06cf.png)
