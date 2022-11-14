@@ -24,4 +24,4 @@ mv athens.txt part4.txt - Copied the file and renamed as part4.txt
 ##Step8
 cat part1.txt part2.txt part3.txt part4.txt >> password.txt - Combined and stored it in password.txt
 cat password.txt -  Reads data from the file and outputs the contents
-(https://user-images.githubusercontent.com/116486234/201687799-80f4c9ce-90f1-47f5-ae6a-c30fea9edb10.png)
+![saisolutionpdf](https://user-images.githubusercontent.com/116486234/201688332-449cd6af-2513-4782-89b5-37e07da362ef.png)
