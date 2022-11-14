@@ -1,6 +1,7 @@
 #Terminal Commands used:
 
 ##Step1
+
 #####mkdir solution - Made a new folder as solution
 
 ##Step2
