@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  background-color: #555555;
+  font-family: 'Rubik Bubbles', cursive;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+.w {  font-family: 'Rubik Bubbles', cursive;
+
+}
+
+.a {   font-family: 'Rubik Bubbles', cursive;
+
+}
+
+.s {   font-family: 'Rubik Bubbles', cursive;
+
+}
+
+.d {
+  font-family: 'Rubik Bubbles', cursive;
+}
+
+.j {
+  font-family: 'Rubik Bubbles', cursive;
+}
+
+.k {
+  font-family: 'Rubik Bubbles', cursive;
+}
+
+.l {
+  font-family: 'Rubik Bubbles', cursive;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
