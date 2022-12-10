@@ -1,16 +1,11 @@
-# flamegame
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+[206874759-cd438a47-842d-4ab6-99b9-22e0e6013168.webm](https://user-images.githubusercontent.com/116486234/206877472-4fd68bb6-9fcb-4e9c-892f-8aa898763f3c.webm)
