@@ -1,0 +1,34 @@
+def checklevel(lvl):
+    if len(lvl) ==len(set(lvl)):
+       return False
+    else:
+       return True
+       
+
+mana=[]
+a=int(input(""))
+
+for i in range (a):
+    m=int(input(""))
+    
+    for j in range (m):
+        levels=list(map(int,input("").split(" ",(m-1))))
+        
+        sum=0
+        
+        if 0 in levels:
+           z=levels.count(0)
+           sum=+ sum+(m-z)
+           mana.append(sum)
+          
+        elif checklevel(levels)==True:
+             sum=+ sum+(m)
+             mana.append(sum)
+        
+        else:
+             sum=+ sum+(m+1)
+             mana.append(sum)
+             
+        break
+for i in range (a):
+    print(mana[i])

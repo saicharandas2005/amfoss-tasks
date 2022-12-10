@@ -1,0 +1,24 @@
+tank=[]
+sum_list=[]
+
+t=int(input (""))
+for i in range (t):
+    a=0
+    n=int(input (""))
+    tank=map(int,input().split(" ",(n-1)))
+    
+    f=list(tank)
+    
+    j=0
+    while f[j]==0:
+          j+=1
+    
+    tanks=f[j:n-1]
+    
+    z=tanks.count(0)
+    
+    a=sum(tanks)
+    sum_list.append(a+z)
+    
+for i in range(t):
+    print (sum_list [i])
