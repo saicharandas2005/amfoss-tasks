@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pehazP9ibaHHaYJv6N0HancI/EPsxg8SAj8DIEGU6OtwSdhfV9t/15Chssfq89RtngL1ktoE1gtoC9NHq14w0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\amfoss\\tasks\\task-05\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
