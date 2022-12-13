@@ -13,11 +13,11 @@
 [Task-06]|Flutter|Completed
 [Task-07]|GO WASM|Not attempted till yet
 [Task-08]|Internet Explorer|Completed
-[Task-09]|Krypto Scrapper|Completed
+[Task-09]|Krypto Scrapper|Not attempted till yet
 [Task-10]|CS50|Completed
 [Task-11]|Poster Design|Completed
-[Task-12]|Bunny Heist|Done(Output is fine but source limit crossed) 
-[Task-13]|Football Counter|Completed
+[Task-12]|Bunny Heist|Not attempted till yet
+[Task-13]|Football Counter|Not attempted till yet
 [Task-14]|Bandit|Completed
 [Task-15]|Project Euler|Completed
 ## My views about the tasks
