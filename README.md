@@ -11,7 +11,7 @@
 [Task-04](task-04)|CineBot|Completed
 [Task-05](task-05)|Finding the bug|Completed
 [Task-06](task-06)|Flutter|Completed
-[Task-07](task-07)(task-03)|GO WASM|Not attempted till yet
+[Task-07](task-07)|GO WASM|Not attempted till yet
 [Task-08](task-08)|Internet Explorer|Completed
 [Task-09](task-09)|Krypto Scrapper|Not attempted till yet
 [Task-10](task-10)|CS50|Completed
