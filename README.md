@@ -1,7 +1,7 @@
 # amfoss-tasks
 
-# Akshat Tripathi
-**I am Akshat Tripathi from Gorakhpur Uttar Pradesh,fresher at Amrita School of Engineering(EAC 2020)**
+# Sai Charan Das
+**I am Sai Charan Das,I am from Srikakulam AndhraPradesh,Fresher at Amrita School Of Engineering CSE (2022)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Installing Ubuntu|Completed
