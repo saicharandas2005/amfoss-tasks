@@ -4,22 +4,22 @@
 **I am Sai Charan Das,I am from Srikakulam AndhraPradesh,Fresher at Amrita School Of Engineering CSE (2022)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00]|Installing Ubuntu|Completed
-[Task-01]|Staring amFOSS repositories|Completed
-[Task-02]|Terminal Hunt|Completed
-[Task-03]|Programming|Done Seven Questions
-[Task-04]|CineBot|Completed
-[Task-05]|Finding the bug|Completed
-[Task-06]|Flutter|Completed
-[Task-07]|GO WASM|Not attempted till yet
-[Task-08]|Internet Explorer|Completed
-[Task-09]|Krypto Scrapper|Not attempted till yet
-[Task-10]|CS50|Completed
-[Task-11]|Poster Design|Completed
-[Task-12]|Bunny Heist|Not attempted till yet
-[Task-13]|Football Counter|Not attempted till yet
-[Task-14]|Bandit|Completed
-[Task-15]|Project Euler|Completed
+[Task-00](task-00)|Installing Ubuntu|Completed
+[Task-01](task-01)|Staring amFOSS repositories|Completed
+[Task-02](task-02)|Terminal Hunt|Completed
+[Task-03](task-03)|Programming|Done Seven Questions
+[Task-04](task-04)|CineBot|Completed
+[Task-05](task-05)|Finding the bug|Completed
+[Task-06](task-06)|Flutter|Completed
+[Task-07](task-07)(task-03)|GO WASM|Not attempted till yet
+[Task-08](task-08)|Internet Explorer|Completed
+[Task-09](task-09)|Krypto Scrapper|Not attempted till yet
+[Task-10](task-10)|CS50|Completed
+[Task-11](task-11)|Poster Design|Completed
+[Task-12](task-12)|Bunny Heist|Not attempted till yet
+[Task-13](task-13)|Football Counter|Not attempted till yet
+[Task-14](task-14)|Bandit|Completed
+[Task-15](task-15)|Project Euler|Completed
 ## My views about the tasks
 In my point of view the tasks were amazing.though I had not completed all of them they had given me a good idea of how the programming will be ,how finding and learning the things on our own helps and the mainly the research point of this tasks was very exiting thing to do even that sometimes I felt frustated while doing the tasks.I had not attempted all the tasks so I may not be able to give a brief discriptionon every single task but till the tasks I had attempted it was way exiting.By this this gave me a lot of things to learn and mainly the google was the saviour in each and every task.Thanks to my seniors who were helpful in every single difficulty I had faced while doing the tasks.
 ## My Introduction
