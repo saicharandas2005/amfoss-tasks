@@ -1,1 +1,10 @@
- 
+# INTROSPECTION
+### Why must we choose you?
+When I first studied about java in my 10 I was like I will be doing it just for grades in my classes and when I was doing my Intermediate I decided to take the stream of Computer Science in my higher education as I realised the importance of coding and technical side I would be much intrested and giving my much effort towards it.From then I was searching for the better source of organisation will can extract and develop coding skills in me and I finally got to know about amFOSS as one of the best club for developing and I can build my career in a efficient manner in there.And now by describing my toughts about coding and my intrests in coding and looking at my desire I personnally feel that this particular passion of mine will make amFOSS to choose me.
+### What is your plan for the next 6 months?
+When I was doing my programming in my 10 I felt the basic logic to the programs was good and I loved the way I used to write the logic for the program.The level of programming now compared to 10 was incresed as well as my desire for programming and from my small age I was much attracted by games and the flutter task was one such kind of basic to my programming in development of android.In 6 months if I get into amFOSS I would be preffering the role of compettive programming and android developement as well as keeping pace with my academics.
+## How would you contribute back to the club?
+I will try to work to the extent of my limits to do what the club wants from me.I would give my best to achieve something in future which 
+amfoss could boast of.I would also try to mentor some of the students according to their abilities and their chances for amFOSS. 
+## Do you have any feedback for the selection process?
+there is no feedback regarding amFOSS selection it is providing us all the needs in form of mentors and depending upon the capability of the stdents they are choosing the candidates and also providing further oppurtunities.This is one of the best selection process which also enriches candidate mind towards development in their skills.
