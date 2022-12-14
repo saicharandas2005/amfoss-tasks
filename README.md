@@ -13,7 +13,7 @@
 [Task-06](task-06)|Flutter|Completed
 [Task-07](task-07)|GO WASM|Not attempted till yet
 [Task-08](task-08)|Internet Explorer|Completed
-[Task-09](task-09)|Krypto Scrapper|Not attempted till yet
+[Task-09](task-09)|Krypto Scrapper|Completed
 [Task-10](task-10)|CS50|Completed
 [Task-11](task-11)|Poster Design|Completed
 [Task-12](task-12)|Bunny Heist|Not attempted till yet
