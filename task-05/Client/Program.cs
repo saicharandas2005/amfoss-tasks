@@ -51,9 +51,9 @@ public class SynchronousSocketClient
                     // Send the data through the socket.  
                     int bytesSent = sender.Send(msg);
 
-                                // Close the socket.
-            sender.Shutdown(SocketShutdown.Both);      
-            sender.Close(); 
+                    // Close the socket.
+                    sender.Shutdown(SocketShutdown.Both);      
+                    sender.Close(); 
                          
 
 
